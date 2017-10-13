@@ -8,3 +8,4 @@ Pueden hacer lo que quieran...
 Este es un proyecto de ejemplo de manejo de GIT.
 
 ## Cambios realizados en Github.com
+Se deben tener en cuenta todos los cambios.
